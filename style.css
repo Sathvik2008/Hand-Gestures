@@ -1,0 +1,27 @@
+body{
+text-align: center;
+color: white;
+background: lightgreen
+}
+.label{
+background-color: white; 
+color: aqua; 
+border-radius: 10px; 
+width: 125px; 
+height: 25px; 
+font-size: 15px;
+}
+.heading{
+background-color: skyblue; 
+width: 350px; 
+font-size: 25px; 
+border-radius: 10px;
+}
+.btn-primary{
+font-size: 15px; 
+width: 125px;
+}
+.btn-warning{
+font-size: 15px; 
+width: 130px;
+}
